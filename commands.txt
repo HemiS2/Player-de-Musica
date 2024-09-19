@@ -1,0 +1,20 @@
+git config user.name HemiS2   
+git config user.email pedro.henrique000077@gmail.com 
+
+Criar o projeto:
+  npx create-expo-app@latest ViotaMusic --template blank
+  cd ViotaMusic
+
+Instalar os pacotes necessários:
+  npx expo install react-dom react-native-web @expo/metro-runtime
+  npx expo install @react-native-community/slider
+  npx expo install expo-av
+
+Executar o projeto:
+  No celular:
+    npx expo start --android --localhost
+  Na web:
+    npx expo start --web
+
+Celular do Gallo:
+  Senha: 1428
