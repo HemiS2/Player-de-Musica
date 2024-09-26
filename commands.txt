@@ -2,7 +2,7 @@ git config user.name HemiS2
 git config user.email pedro.henrique000077@gmail.com 
 
 Criar o projeto:
-  npx create-expo-app@latest ViotaMusic --template blank
+  npx create-expo-app@latest player-de-musica --template blank
   cd ViotaMusic
 
 Instalar os pacotes necessários:
